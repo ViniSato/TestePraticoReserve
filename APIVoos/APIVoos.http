@@ -1,0 +1,6 @@
+@APIVoos_HostAddress = http://localhost:5062
+
+GET {{APIVoos_HostAddress}}/Voos/disponibilidade?origem=Rio%20de%20Janeiro&destino=São%20Paulo&data=2024-06-20
+Accept: application/json
+
+###
